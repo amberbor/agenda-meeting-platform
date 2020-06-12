@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.auth-title-padding-bottom {
+  padding-bottom: 30px;
+}
+
+body {
+  background-color: #dce7ff !important;
+}

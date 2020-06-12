@@ -1,0 +1,7 @@
+.flatpickr-wrapper {
+    width: 100% !important;
+}
+
+.is-invalid .invalid-feedback {
+    display: block !important;
+}
